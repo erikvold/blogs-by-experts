@@ -29,6 +29,7 @@ Pull requests are encouraged. See CONTRIBUTING.md for more details.
 
  - Paul Romer: [Economic growth](https://paulromer.net/economic-growth-2/)
  - Nick Szabo: [Weigh and deliver: compensation and the evolution of law and money](https://unenumerated.blogspot.com/2016/12/weigh-and-deliver-compensation-and.html)
+ - David Friedman: [The Economics of Vice and Virtue](http://daviddfriedman.blogspot.com/2006/01/economics-of-vice-and-virtue.html)
 
 ## Mathematics
 
